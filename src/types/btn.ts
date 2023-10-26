@@ -1,0 +1,1 @@
+const option = ["Tiếp tục →"];
